@@ -7,7 +7,7 @@ entity adder_1bit is
         B: in STD_LOGIC;
         C: in STD_LOGIC;
         S: out STD_LOGIC;
-        Co: out STD_LOGIC;
+        Co: out STD_LOGIC
         );
 end adder_1bit;
 
