@@ -64,6 +64,6 @@
 
 <img src="https://github.com/5j54d93/NTOU-CS/blob/main/Digital%20System%20Design/HW1/Photo/HW1-3.png" width='100%' height='100%'/>
 
-## NTOU CS｜License：Digital System Design 數位系統設計
+## Digital System Design｜License：© Ricky Chuang
 
 This package is licensed under MIT license. See [LICENSE](https://github.com/5j54d93/NTOU-CS/blob/main/LICENSE) for details.
