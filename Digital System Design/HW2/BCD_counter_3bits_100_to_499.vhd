@@ -33,7 +33,7 @@ begin
                     else
                        temp1 := temp1 + 1;
                        temp0 := x"0";
-                    end if
+                    end if;
                 else temp0 := temp0 + 1;
                 end if;
             end if;
