@@ -5,7 +5,7 @@ use IEEE.STD_LOGIC_UNSIGNED.ALL;
 entity updown_counter_8bits_20_to_A0 is
     port(
         CLK, UP_DOWN, RESET: in STD_LOGIC;
-        Q: out STD_LOGIC_VECTOR(7 downto 0);
+        Q: out STD_LOGIC_VECTOR(7 downto 0)
         );
 end updown_counter_8bits_20_to_A0;
 
