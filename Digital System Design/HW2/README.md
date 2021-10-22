@@ -35,7 +35,7 @@ S = A + B
 
 <img src="" width='100%' height='100%'/>
 
-## 題目 3：實作 3 位元 BCD 上數器（從 100 到 499）
+## 題目 3：[實作 3 位元 BCD 上數器（從 100 到 499）](https://github.com/5j54d93/NTOU-CS/blob/main/Digital%20System%20Design/HW2/BCD_counter_3bits_100_to_499.vhd)
 
 ### 說明
 
