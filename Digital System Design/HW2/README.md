@@ -18,7 +18,7 @@ S = A + B
 
 <img src="" width='100%' height='100%'/>
 
-## 題目 2：實作 8 bits 上下數器（從 20₁₆ 到 A0₁₆）
+## 題目 2：[實作 8 bits 上下數器（從 20₁₆ 到 A0₁₆）](https://github.com/5j54d93/NTOU-CS/blob/main/Digital%20System%20Design/HW2/updown_counter_8bits_20_to_A0.vhd)
 
 ### 說明
 
