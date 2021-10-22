@@ -33,9 +33,18 @@
 
 ### 波形圖
 
-<img src="" width='100%' height='100%'/>
+<img src="https://github.com/5j54d93/NTOU-CS/blob/main/Digital%20System%20Design/HW1/Photo/HW1-2.png" width='100%' height='100%'/>
 
 ## 題目 3：用 2 對 1 多工器和 4 對 1 多工器，組成 8 對 1 多工器
+
+### 說明
+
+- 輸入 Input：I、S
+- 輸出 Output：F
+
+### 波形圖
+
+<img src="" width='100%' height='100%'/>
 
 ## NTOU CS｜License：Digital System Design 數位系統設計
 
