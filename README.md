@@ -8,6 +8,6 @@ Store my code of courseworks.
 - [The design of Embedded systems 嵌入式系統設計](https://github.com/5j54d93/NTOU-CS/tree/main/The%20design%20of%20Embedded%20systems)
 - [iOS Development Introduction iOS 應用程式開發入門](https://github.com/5j54d93/NTOU-CS/tree/main/iOS%20Development%20Introduction)
 
-## NTOU CS｜License
+## NTOU CS｜License：© Ricky Chuang
 
 This package is licensed under MIT license. See [LICENSE](https://github.com/5j54d93/NTOU-CS/blob/main/LICENSE) for details.
