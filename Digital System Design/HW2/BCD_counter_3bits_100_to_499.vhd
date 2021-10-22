@@ -16,7 +16,7 @@ begin
     process(CLK, RESET)
     variable temp0, temp1, temp2: STD_LOGIC_VECTOR(3 downto 0);
         begin
-            if RESET ='0' then
+            if RESET = '0' then
                temp2 := x"1";
                temp1 := x"0";
                temp0 := x"0";
@@ -25,14 +25,15 @@ begin
                    temp2 := x"1";
                    temp1 := x"0";
                    temp0 := x"0";
-               elsif temp0 = x"9" then
-                   if temp1 = x"9" then
+                elsif temp0 = x"9" then
+                    if temp1 = x"9" then
                       temp2 := temp2 + 1;
                       temp1 := x"0";
                       temp0 := x"0";
-                   else
+                    else
                        temp1 := temp1 + 1;
                        temp0 := x"0";
+                    end if
                 else temp0 := temp0 + 1;
                 end if;
             end if;
