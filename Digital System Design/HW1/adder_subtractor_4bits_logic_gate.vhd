@@ -1,7 +1,7 @@
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 
-entity adder_subtractor_4bits is
+entity adder_subtractor_4bits_logic_gate is
     port(
         A: in STD_LOGIC_VECTOR(3 downto 0);
         B: in STD_LOGIC_VECTOR(3 downto 0);
@@ -9,9 +9,9 @@ entity adder_subtractor_4bits is
         S: out STD_LOGIC_VECTOR(3 downto 0);
         Co: out STD_LOGIC
         );
-end adder_subtractor_4bits;
+end adder_subtractor_4bits_logic_gate;
 
-architecture adder_subtractor_4bits of adder_subtractor_4bits is
+architecture adder_subtractor_4bits_logic_gate of adder_subtractor_4bits_logic_gate is
     signal C1, C2, C3: STD_LOGIC;
 begin
     S(0) <= A(0) xor B(0) when M = '0' else
@@ -30,4 +30,4 @@ begin
             A(3) xor (not B(3)) xor C3;
     Co <= (A(3) and B(3)) or (B(3) and C3) or (A(3) and C3) when M = '0' else
           (A(3) and (not B(3))) or ((not B(3)) and C3) or (A(3) and C3);
-end adder_subtractor_4bits;
+end adder_subtractor_4bits_logic_gate;
