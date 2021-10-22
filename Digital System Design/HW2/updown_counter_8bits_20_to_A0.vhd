@@ -20,13 +20,12 @@ begin
                if UP_DOWN = '0' then
                    if temp = x"A0" then
                        temp <= x"20";
-                   else
-                       temp <= temp + 1;
+                   else temp <= temp + 1;
                    end if;
                elsif temp = x"20" then
                    temp <= x"A0";
-               else
-                   temp <= temp - 1;
+               else temp <= temp - 1;
+               end if;
            end if;
      end process;
      Q <= temp;
