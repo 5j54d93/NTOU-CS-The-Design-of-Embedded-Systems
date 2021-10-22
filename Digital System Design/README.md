@@ -20,6 +20,6 @@
 
 ### Homework 3
 
-## NTOU CS｜License：Digital System Design 數位系統設計
+## Digital System Design｜License：© Ricky Chuang
 
 This package is licensed under MIT license. See [LICENSE](https://github.com/5j54d93/NTOU-CS/blob/main/LICENSE) for details.
