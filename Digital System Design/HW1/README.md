@@ -5,7 +5,7 @@
 - 題目 3：用 2 對 1 多工器和 4 對 1 多工器，組成 8 對 1 多工器
 - License
 
-## 題目 1：[用 Logic Gate 實作 4 bits 加減法器](https://github.com/5j54d93/NTOU-CS/blob/main/Digital%20System%20Design/HW1/adder_subtractor_4bits.vhd)
+## 題目 1：[用 Logic Gate 實作 4 bits 加減法器](https://github.com/5j54d93/NTOU-CS/blob/main/Digital%20System%20Design/HW1/adder_subtractor_4bits_logic_gate.vhd)
 
 ### 說明
 
