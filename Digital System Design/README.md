@@ -20,6 +20,10 @@
 
 ### Homework 3
 
+1. [階梯波](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design/HW3#題目-1階梯波)
+2. [可串接 1 bit BCD 上數器](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design/HW3#題目-2可串接-1-bit-bcd-上數器)
+3. [用題目 2 以方塊圖實做2 bit BCD 上數器](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design/HW3#題目-3用題目-2-以方塊圖實做2-bit-bcd-上數器)
+
 ## Digital System Design｜License：© Ricky Chuang
 
 This package is licensed under MIT license. See [LICENSE](https://github.com/5j54d93/NTOU-CS/blob/main/LICENSE) for details.
