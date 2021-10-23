@@ -1,9 +1,9 @@
 # Digital System Design 數位系統設計：作業三
 
-- 題目 1：階梯波
-- 題目 2：可串接 1 bit BCD 上數器
-- 題目 3：用題目 2 以方塊圖實做2 bit BCD 上數器
-- License
+- 題目 1：[階梯波](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design/HW3#題目-1階梯波)
+- 題目 2：[可串接 1 bit BCD 上數器](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design/HW3#題目-2可串接-1-bit-bcd-上數器)
+- 題目 3：[用題目 2 以方塊圖實做2 bit BCD 上數器](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design/HW3#題目-3用題目-2-以方塊圖實做2-bit-bcd-上數器)
+- [License](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design/HW3#digital-system-designlicense-ricky-chuang)
 
 ## 題目 1：[階梯波](https://github.com/5j54d93/NTOU-CS/blob/main/Digital%20System%20Design/HW3/staircase_8bits.vhd)
 
