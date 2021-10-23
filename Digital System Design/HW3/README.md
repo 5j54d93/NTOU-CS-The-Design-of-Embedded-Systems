@@ -16,13 +16,11 @@
 
 ### 模擬測試波形圖
 
-<img src="" width='100%' height='100%'/>
+<img src="https://github.com/5j54d93/NTOU-CS/blob/main/Digital%20System%20Design/HW3/Photo/HW3-1.png" width='100%' height='100%'/>
 
 ## 題目 2：[可串接 1 bit BCD 上數器](https://github.com/5j54d93/NTOU-CS/blob/main/Digital%20System%20Design/HW3/cascade_BCD_counter_1bit.vhd)
 
 ### 說明
-
-正緣觸發
 
 - 輸入 Input：CLK、RESET、CASIN
 - 輸出 Output：CASOUT、F
@@ -34,17 +32,22 @@
 
 ### 模擬測試波形圖
 
-<img src="" width='100%' height='100%'/>
+<img src="https://github.com/5j54d93/NTOU-CS/blob/main/Digital%20System%20Design/HW3/Photo/HW3-2.png" width='100%' height='100%'/>
 
 ## 題目 3：用題目 2 以方塊圖實做2 bit BCD 上數器
 
 ### 說明
 
-<img src="" width='100%' height='100%'/>
+- 輸入 Input：CLK、RESET、CASIN
+- 輸出 Output：CASOUT、F
+
+<img src="https://github.com/5j54d93/NTOU-CS/blob/main/Digital%20System%20Design/HW3/Photo/HW3-3.png" width='100%' height='100%'/>
 
 ### 模擬測試波形圖
 
-<img src="" width='100%' height='100%'/>
+<img src="https://github.com/5j54d93/NTOU-CS/blob/main/Digital%20System%20Design/HW3/Photo/HW3-3-1.png" width='100%' height='100%'/>
+<img src="https://github.com/5j54d93/NTOU-CS/blob/main/Digital%20System%20Design/HW3/Photo/HW3-3-2.png" width='100%' height='100%'/>
+
 
 ## Digital System Design｜License：© Ricky Chuang
 
