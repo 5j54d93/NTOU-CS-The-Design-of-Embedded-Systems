@@ -18,7 +18,7 @@
 
 <img src="" width='100%' height='100%'/>
 
-## 題目 2：可串接 1 bit BCD 上數器
+## 題目 2：[可串接 1 bit BCD 上數器](https://github.com/5j54d93/NTOU-CS/blob/main/Digital%20System%20Design/HW3/cascade_BCD_counter_1bit.vhd)
 
 ### 說明
 
