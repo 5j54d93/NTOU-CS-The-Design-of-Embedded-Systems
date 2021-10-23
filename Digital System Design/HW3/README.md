@@ -5,7 +5,7 @@
 - 題目 3：用題目 2 以方塊圖實做2 bit BCD 上數器
 - License
 
-## 題目 1：階梯波
+## 題目 1：[階梯波](https://github.com/5j54d93/NTOU-CS/blob/main/Digital%20System%20Design/HW3/staircase_8bits.vhd)
 
 ### 說明
 
