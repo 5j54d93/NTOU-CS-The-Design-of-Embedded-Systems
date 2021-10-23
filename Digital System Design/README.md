@@ -1,7 +1,7 @@
 # Digital System Design 數位系統設計
 
 - [Courseworks](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design#courseworks)
-  - Homework：[1](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design#homework-1)／[2](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design#homework-2)／3
+  - Homework：[1](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design#homework-1)／[2](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design#homework-2)／[3](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design#homework-3)
 - [License](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design#digital-system-designlicense-ricky-chuang)
 
 ## Courseworks
