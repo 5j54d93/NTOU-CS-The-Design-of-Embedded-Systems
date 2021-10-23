@@ -18,7 +18,7 @@
 2. [實作 8 bits 上下數器（從 20₁₆ 到 A0₁₆）](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design/HW2#題目-2實作-8-bits-上下數器從-20-到-a0)
 3. [實作 3 位元 BCD 上數器（從 100 到 499）](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design/HW2#題目-3實作-3-位元-bcd-上數器從-100-到-499)
 
-### Homework 3
+### [Homework 3](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design/HW3)
 
 1. [階梯波](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design/HW3#題目-1階梯波)
 2. [可串接 1 bit BCD 上數器](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design/HW3#題目-2可串接-1-bit-bcd-上數器)
