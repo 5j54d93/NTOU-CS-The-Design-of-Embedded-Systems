@@ -65,3 +65,7 @@ Build a CNN whose neural architecture includes ResBlock.
 
     model = keras.models.Model(inputs=images,outputs=net)
     model.summary()
+
+## Machine Vision｜License：© Ricky Chuang
+
+This package is licensed under MIT license. See [LICENSE](https://github.com/5j54d93/NTOU-CS/blob/main/LICENSE) for details.
