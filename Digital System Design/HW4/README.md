@@ -15,7 +15,7 @@
 
 <img src="https://github.com/5j54d93/NTOU-CS/blob/main/Digital%20System%20Design/HW4/Photo/HW4-1.png" width='100%' height='100%'/>
 
-## 題目 2：用 4 bits BCD 可串接上數器組成 3 位數 BCD 可串接上數器
+## 題目 2：[用 4 bits BCD 可串接上數器組成 3 位數 BCD 可串接上數器](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design/HW4/cascade_BCD_upcounter_3digits)
 
 ### 說明
 
