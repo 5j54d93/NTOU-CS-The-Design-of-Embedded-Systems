@@ -4,6 +4,6 @@
 
 <img src="https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/main/Photo/taiwanmemecat：Origin.png" width='25%' height='25%'/><img src="https://github.com/5j54d93/SwiftUI-Taiwanmemecat/blob/main/Photo/taiwanmemecat：special.png" width='25%' height='25%'/>
 
-# License
+# iOS Development Introduction｜License：© Ricky Chuang
 
 This package is licensed under MIT license. See [LICENSE](https://github.com/5j54d93/NTOU-CS/blob/main/LICENSE) for details.
