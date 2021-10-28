@@ -45,6 +45,6 @@ Using Python to write a simple code that server side change the string into lowe
     # 如果不再傳送了就關閉  
     clientSocket.close()  
 
-## NTOU CS｜License：© Ricky Chuang
+## Computer Network｜License：© Ricky Chuang
 
 This package is licensed under MIT license. See [LICENSE](https://github.com/5j54d93/NTOU-CS/blob/main/LICENSE) for details.
