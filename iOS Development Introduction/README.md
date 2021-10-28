@@ -2,7 +2,7 @@
 
 - [Courseworks](https://github.com/5j54d93/NTOU-CS/tree/main/iOS%20Development%20Introduction#courseworks)
   1. Using SwiftUI's Shape & Path to draw Taiwan Meme Cat
-- [License](Using SwiftUI's Shape & Path to draw Taiwan Meme Cat)
+- [License](https://github.com/5j54d93/NTOU-CS/blob/main/iOS%20Development%20Introduction/README.md#ios-development-introductionlicense-ricky-chuang)
 
 ## Courseworks
 
