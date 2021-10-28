@@ -26,7 +26,7 @@
 
 ### [Homework 4](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design/HW4)
 
-1. 用 4 bits 加減法器組成 10 bits 加減法器
+1. [用 4 bits 加減法器組成 10 bits 加減法器](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design/HW4#題目-1用-4-bits-加減法器組成-10-bits-加減法器)
 2. 用 4 bits BCD 可串接上數器組成 3 位數 BCD 可串接上數器
 
 ## Digital System Design｜License：© Ricky Chuang
