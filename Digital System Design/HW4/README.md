@@ -13,7 +13,7 @@
 
 ### 模擬測試波形圖
 
-<img src="" width='100%' height='100%'/>
+<img src="https://github.com/5j54d93/NTOU-CS/blob/main/Digital%20System%20Design/HW4/Photo/HW4-1.png" width='100%' height='100%'/>
 
 ## 題目 2：用 4 bits BCD 可串接上數器組成 3 位數 BCD 可串接上數器
 
@@ -29,7 +29,7 @@
 
 ### 模擬測試波形圖
 
-<img src="https://github.com/5j54d93/NTOU-CS/blob/main/Digital%20System%20Design/HW3/Photo/HW3-2.png" width='100%' height='100%'/>
+<img src="" width='100%' height='100%'/>
 
 ## Digital System Design｜License：© Ricky Chuang
 
