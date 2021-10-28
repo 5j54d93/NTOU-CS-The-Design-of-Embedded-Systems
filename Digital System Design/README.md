@@ -24,7 +24,7 @@
 2. [可串接 1 bit BCD 上數器](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design/HW3#題目-2可串接-1-bit-bcd-上數器)
 3. [用題目 2 以方塊圖實做2 bit BCD 上數器](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design/HW3#題目-3用題目-2-以方塊圖實做2-bit-bcd-上數器)
 
-### Homework 4
+### [Homework 4](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design/HW4)
 
 1. 用 4 bits 加減法器組成 10 bits 加減法器
 2. 用 4 bits BCD 可串接上數計數器組成 3 位數 BCD 可串接上數計數器
