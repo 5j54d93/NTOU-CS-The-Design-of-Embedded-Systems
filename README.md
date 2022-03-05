@@ -1,6 +1,4 @@
-# NTOU Computer Science 海大資工
-
-Store my code of courseworks.
+# NTOU Computer Science Course Works
 
 - [Computer Network 電腦網路](https://github.com/5j54d93/NTOU-CS/tree/main/Computer%20Network/Simple%20UDP)
 - [Digital System Design 數位系統設計](https://github.com/5j54d93/NTOU-CS/tree/main/Digital%20System%20Design)
